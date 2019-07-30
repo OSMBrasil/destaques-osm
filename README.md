@@ -27,7 +27,7 @@ O Github oferece um sistema de gerenciamento de tarefas ou, em inglês, **issues
 
 O processo é composto pelas seguintes categorias de atividades:
 
-- Produção: envios de sugestões por parte de membros do grupo ou qualquer pessoa interessada em divulgar uma iniciativa, referência ou evento relacionado ao OpenStreetMap;
+- Pedidos de postagem: envios de sugestões por parte de membros do grupo ou qualquer pessoa interessada em divulgar uma iniciativa, referência ou evento relacionado ao OpenStreetMap;
 
 - Revisão: atividade exercida por membros do grupo, na qual são revisados os envios para que atendam os requisitos mínimos de divulgação nos canais e redes sociais;
 
