@@ -1,4 +1,4 @@
-***Este projeto está em fase de construção. Dúvidas e sugestões, entre em contato [via chat](https://t.me/joinchat/AoFynBYqxA7Ib_lZpvJVtA) ou envie uma issue.***
+***Este projeto está em fase de construção. Dúvidas e sugestões, entre em contato [via chat](https://t.me/joinchat/AoFynBYqxA7Ib_lZpvJVtA) ou abra uma issue.***
 
 # Destaques OSM
 
@@ -12,12 +12,12 @@ Promover um processo comunitário de produção e divulgação de conteúdo sobr
 
 A comunidade brasileira conta com canais em diferentes plataformas, como lista de e-mails, aplicações de chat e redes sociais. Entre os canais prioritários para a divulgação do conteúdo produzido pelo grupo estão:
 
-- Lista de e-mail talk-br
-- Twitter
-- Facebook
-- Grupo de usuários no Telegram
+- [Lista de e-mail talk-br](https://lists.openstreetmap.org/listinfo/talk-br)
+- [Twitter](https://twitter.com/openstreetmapbr)
+- Facebook: [página](https://www.facebook.com/OpenStreetMapBrasil) e [grupo](https://www.facebook.com/groups/osmbrazil)
+- [Grupo no Telegram](https://t.me/OSMBrasil_Comunidade)
 
-A lista completa de canais pode ser lida nesta página wiki do OpenStreetMap.
+A lista completa de canais pode ser lida [nesta página wiki](https://wiki.openstreetmap.org/wiki/Pt:Canais_para_contato) do OpenStreetMap.
 
 ## O processo de edição
 
@@ -35,7 +35,9 @@ O processo é composto pelas seguintes categorias de atividades:
 
 Todo o desenvolvimento projeto está baseado no sistema de issues, não sendo necessário conhecimento de *git*.
 
-Visite o Índice Geral para conhecer mais detalhes.
+Visite o Índice Geral para conhecer mais detalhes:
+
+https://github.com/OSMBrasil/destaques-osm/issues/1
 
 O grupo de trabalho também conta com um grupo público de chat no Telegram, acesse:
 
