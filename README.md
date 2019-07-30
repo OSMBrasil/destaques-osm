@@ -35,10 +35,6 @@ O processo é composto pelas seguintes categorias de atividades:
 
 Todo o desenvolvimento projeto está baseado no sistema de issues, não sendo necessário conhecimento de *git*.
 
-Visite o Índice Geral para conhecer mais detalhes:
+Visite o [Índice Geral](https://github.com/OSMBrasil/destaques-osm/issues/1) para conhecer mais detalhes.
 
-https://github.com/OSMBrasil/destaques-osm/issues/1
-
-O grupo de trabalho também conta com um grupo público de chat no Telegram, acesse:
-
-https://t.me/joinchat/AoFynBYqxA7Ib_lZpvJVtA
+O grupo de trabalho também conta com um grupo público de chat no Telegram, [acesse aqui](https://t.me/joinchat/AoFynBYqxA7Ib_lZpvJVtA).
