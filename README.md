@@ -1,4 +1,4 @@
-***Este projeto está em fase de construção. Dúvidas e sugestões, entre em contato [via chat](https://t.me/joinchat/AoFynBYqxA7Ib_lZpvJVtA) ou abra uma issue.***
+***Este projeto está em fase de construção. Dúvidas e sugestões, entre em contato [via chat](https://t.me/joinchat/AoFynBYqxA7Ib_lZpvJVtA) ou [abra uma issue](https://github.com/OSMBrasil/destaques-osm/issues/new).***
 
 # Destaques OSM
 
