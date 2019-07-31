@@ -6,18 +6,22 @@ Grupo de trabalho de divulgação do OpenStreetMap em português.
 
 ## Missão
 
-Promover um processo comunitário de produção e divulgação de conteúdo sobre o OpenStreetMap, para a comunidade brasileira e público geral.
+Promover um processo comunitário de produção e divulgação de conteúdo sobre o OpenStreetMap, para a comunidade lusófona.
 
 ## Canais de divulgação
 
-A comunidade brasileira conta com canais em diferentes plataformas, como lista de e-mails, aplicações de chat e redes sociais. Entre os canais prioritários para a divulgação do conteúdo produzido pelo grupo estão:
+Este grupo pode atender a todos países da lusofonia. 
+
+### Brasil
+
+A comunidade conta com canais em diferentes plataformas, como lista de e-mails, aplicações de chat e redes sociais. Entre os canais prioritários para a divulgação do conteúdo produzido pelo grupo estão:
 
 - [Lista de e-mail talk-br](https://lists.openstreetmap.org/listinfo/talk-br)
 - [Twitter](https://twitter.com/openstreetmapbr)
 - Facebook: [página](https://www.facebook.com/OpenStreetMapBrasil) e [grupo](https://www.facebook.com/groups/osmbrazil)
 - [Grupo no Telegram](https://t.me/OSMBrasil_Comunidade)
 
-A lista completa de canais pode ser lida [nesta página wiki](https://wiki.openstreetmap.org/wiki/Pt:Canais_para_contato) do OpenStreetMap.
+A lista completa de canais brasileiros pode ser lida [nesta página wiki](https://wiki.openstreetmap.org/wiki/Pt:Canais_para_contato) do OpenStreetMap.
 
 ## O processo de edição
 
